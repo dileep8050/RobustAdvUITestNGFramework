@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="4" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="29448" started-at="2021-06-10T20:22:22 IST" finished-at="2021-06-10T20:22:51 IST">
+    <groups>
+      <group name="smoke">
+        <method signature="SauceTest.test3()[pri:0, instance:com.learn.tests.SauceTest@369f73a2]" name="test3" class="com.learn.tests.SauceTest"/>
+        <method signature="SauceTest.test4()[pri:0, instance:com.learn.tests.SauceTest@369f73a2]" name="test4" class="com.learn.tests.SauceTest"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test name="Test" duration-ms="29448" started-at="2021-06-10T20:22:22 IST" finished-at="2021-06-10T20:22:51 IST">
+      <class name="com.learn.tests.SauceTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.learn.tests.SauceTest@369f73a2]" name="setUp" is-config="true" duration-ms="11003" started-at="2021-06-10T20:22:22 IST" finished-at="2021-06-10T20:22:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:com.learn.tests.SauceTest@369f73a2]" name="test3" duration-ms="2492" started-at="2021-06-10T20:22:33 IST" finished-at="2021-06-10T20:22:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.learn.tests.SauceTest@369f73a2]" name="tearDown" is-config="true" duration-ms="1799" started-at="2021-06-10T20:22:36 IST" finished-at="2021-06-10T20:22:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.learn.tests.SauceTest@369f73a2]" name="setUp" is-config="true" duration-ms="12675" started-at="2021-06-10T20:22:37 IST" finished-at="2021-06-10T20:22:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:com.learn.tests.SauceTest@369f73a2]" name="test4" duration-ms="3" started-at="2021-06-10T20:22:50 IST" finished-at="2021-06-10T20:22:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.learn.tests.SauceTest@369f73a2]" name="tearDown" is-config="true" duration-ms="1399" started-at="2021-06-10T20:22:50 IST" finished-at="2021-06-10T20:22:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.learn.tests.SauceTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
